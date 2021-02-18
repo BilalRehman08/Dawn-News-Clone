@@ -1,0 +1,160 @@
+.dawn{
+     text-align: center;
+     
+ }
+ .dawnheading{
+     font-size: 70px;
+     font-weight: bold;
+     font-family: serif;
+     margin-top: -3px;
+ }
+ .date{
+     margin-top: -70px;
+     font-size: 14px;
+     color: grey;
+ }
+ .secondnavbar{    
+     margin-left: 30px;
+     margin-top: 10px;
+ }
+ 
+ .firstnavbar{
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    height: 25px;
+ }
+ div.firstnavbar a{
+     color: rgb(253, 232, 232);
+     text-decoration: none;
+     margin-left: 10px;
+     text-align: center;
+     text-transform: uppercase;
+     font-size: 10px;
+     font-weight: normal;
+     
+     word-spacing: 1px;
+     letter-spacing: 1px;
+ }
+ 
+ .secondnavbar button{
+     background-color: white;
+     border: none;
+     height: 30px;
+ 
+ }
+ .secondnavbar button a{
+     text-decoration: none;
+     color: black;
+ }
+ .secondnavbar button:hover{
+     background-color: rgb(236, 240, 241 );
+     border: 1px solid none;
+ }
+ .secondnavbar button:active{
+     background-attachment: rgb(236, 240, 241 );
+     border-bottom: 1px solid black;
+ }
+ 
+ .headline{
+     margin-left: 30px;
+     width: 930px;
+ }
+ 
+ .headline h1{
+     font-size: 35px;
+ }
+ .headline h1:hover{
+     cursor: pointer;
+ }
+ .headline p{
+     font-size: 15px;
+ }
+ .headline p span{
+     margin-left: 370px;
+ }
+ .headline p span i{
+     font-size: 24px;
+     margin-left: 10px;
+ }
+ .headline p span i:hover{
+     cursor: pointer;
+ }
+ .headline figure{
+     margin-left: -5px;
+ }
+ .headline figure img{
+     width: 100%;
+ }
+ .newsdescription{
+     width: 600px;
+     margin-left: 200px;
+ }
+ #descriptionMain{
+     font-size: 20px;
+     font-weight: bold;
+     line-height: 33px;
+ }
+ .newsdescription p{
+     font-size: 20px;
+     line-height: 33px;
+ }
+ .newsdescription p a{
+     color: brown;
+ }
+ 
+ .comments{
+     margin-left: 70px;
+ }
+ .comments span input{
+     width: 320px;
+     height: 30px;
+     padding: 5px 10px;
+   
+ }
+ .comments p strong{
+     font-size: 11px;
+     color: brown;
+ }
+ .comments p{
+     line-height: 20px;
+ }
+ #yourcomment{
+     margin-top: 20px;
+     padding: 5px 10px;
+     font-size: 14px;
+ }
+ .writecomment p{
+     font-size: 11px;
+     letter-spacing: 1px;
+ }
+
+ .logo{
+    width: 100%;
+    height:10%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-size: small;
+    }
+     
+ .writecomment p b{
+     color: green;
+ }
+ #btn-submit{
+     margin-left: 340px;
+     height: 40px;
+     width: 70px;
+     background-color: black;
+ }
+ #btn-submit a{
+     text-decoration: none;
+     color: whitesmoke;
+     text-transform: uppercase;
+ }
+ textarea:focus{
+     border: 5px solid #A0E7F9 ;
+ }
+ .comments span input:focus{
+     border: 5px solid #A0E7F9 ;
+ }
